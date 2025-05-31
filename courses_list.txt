@@ -1,0 +1,99 @@
+=== DAFTAR KURSUS KEAMANAN SIBER DI CYBERONLY ===
+
+A. KURSUS GRATIS
+----------------
+
+1. KEAMANAN JARINGAN (NETWORK SECURITY)
+- Dasar Keamanan Jaringan (2 jam, 5 modul)
+- Firewall Fundamentals (3 jam, 6 modul)
+- Network Monitoring Basics (4 jam, 7 modul)
+- Basic Network Defense (3 jam, 5 modul)
+- Pengenalan IDS/IPS (4 jam, 6 modul)
+
+2. INFRASTRUKTUR JARINGAN (NETWORK INFRASTRUCTURE)
+- Dasar Infrastruktur Jaringan (2 jam, 4 modul)
+- Basic Routing & Switching (3 jam, 5 modul)
+- Network Topology Basics (2 jam, 4 modul)
+- IP Addressing Fundamentals (3 jam, 5 modul)
+- Basic Network Protocols (4 jam, 6 modul)
+
+3. MANAJEMEN PASSWORD (PASSWORD MAINTENANCE)
+- Password Security Basics (1 jam, 3 modul)
+- Password Best Practices (2 jam, 4 modul)
+- Password Recovery Basics (2 jam, 3 modul)
+- Multi-factor Authentication (2 jam, 4 modul)
+- Password Policy Basics (1 jam, 3 modul)
+
+4. DASAR LINUX (LINUX BASICS)
+- Pengenalan Linux (2 jam, 5 modul)
+- Linux Command Line (3 jam, 6 modul)
+- Linux File System (2 jam, 4 modul)
+- Basic Linux Security (3 jam, 5 modul)
+- Linux User Management (2 jam, 4 modul)
+
+5. EDUKASI PHISHING (PHISHING EDUCATION)
+- Pengenalan Phishing (2 jam, 4 modul)
+- Mengenali Email Phishing (3 jam, 5 modul)
+- Social Engineering Basics (2 jam, 4 modul)
+- Phishing Prevention (3 jam, 5 modul)
+- Safe Browsing Habits (2 jam, 4 modul)
+
+6. DASAR MALWARE (MALWARE BASICS)
+- Pengenalan Malware (2 jam, 4 modul)
+- Virus dan Antivirus (3 jam, 5 modul)
+- Malware Prevention (2 jam, 4 modul)
+- Safe Download Practices (2 jam, 4 modul)
+- Basic Malware Removal (3 jam, 5 modul)
+
+
+B. KURSUS PREMIUM
+----------------
+
+1. KEAMANAN JARINGAN LANJUTAN
+- Advanced Network Security (8 jam, 12 modul) - Rp 999.000
+- Enterprise Security Solutions (10 jam, 15 modul) - Rp 1.499.000
+- Penetration Testing (12 jam, 16 modul) - Rp 1.999.000
+- Security Incident Handling (6 jam, 10 modul) - Rp 1.299.000
+- Network Forensics (8 jam, 14 modul) - Rp 1.799.000
+
+2. INFRASTRUKTUR JARINGAN LANJUTAN
+- Advanced Network Design (10 jam, 15 modul) - Rp 1.799.000
+- Enterprise Networking (12 jam, 18 modul) - Rp 2.299.000
+- Network Optimization (8 jam, 12 modul) - Rp 1.599.000
+- High Availability Networks (10 jam, 14 modul) - Rp 1.899.000
+- Network Automation (6 jam, 10 modul) - Rp 1.499.000
+
+3. MANAJEMEN PASSWORD LANJUTAN
+- Advanced Password Security (4 jam, 8 modul) - Rp 899.000
+- Enterprise Password Management (6 jam, 10 modul) - Rp 1.299.000
+- Password Cracking Prevention (5 jam, 9 modul) - Rp 999.000
+- Advanced Authentication (7 jam, 12 modul) - Rp 1.499.000
+- Password Security Audit (5 jam, 8 modul) - Rp 1.199.000
+
+4. LINUX LANJUTAN
+- Advanced Linux Administration (8 jam, 12 modul) - Rp 1.499.000
+- Linux Security Hardening (10 jam, 15 modul) - Rp 1.899.000
+- Linux Server Management (12 jam, 18 modul) - Rp 2.299.000
+- Linux Network Security (9 jam, 14 modul) - Rp 1.699.000
+- Linux Penetration Testing (11 jam, 16 modul) - Rp 1.999.000
+
+5. PHISHING LANJUTAN
+- Advanced Phishing Analysis (6 jam, 10 modul) - Rp 1.299.000
+- Enterprise Anti-Phishing (8 jam, 12 modul) - Rp 1.699.000
+- Phishing Incident Response (7 jam, 11 modul) - Rp 1.499.000
+- Advanced Social Engineering (9 jam, 14 modul) - Rp 1.899.000
+- Phishing Campaign Analysis (8 jam, 13 modul) - Rp 1.799.000
+
+6. MALWARE LANJUTAN
+- Advanced Malware Analysis (10 jam, 15 modul) - Rp 1.999.000
+- Malware Reverse Engineering (12 jam, 18 modul) - Rp 2.499.000
+- Enterprise Malware Protection (8 jam, 12 modul) - Rp 1.699.000
+- Ransomware Defense (9 jam, 14 modul) - Rp 1.899.000
+- Advanced Threat Protection (11 jam, 16 modul) - Rp 2.199.000
+
+=== INFORMASI TAMBAHAN ===
+- Semua kursus gratis dapat diakses setelah login
+- Kursus premium memerlukan pembayaran sebelum dapat diakses
+- Setiap kursus dilengkapi dengan materi praktik
+- Sertifikat diberikan setelah menyelesaikan kursus
+- Progress pembelajaran dapat dipantau di halaman "Kursus Saya"
